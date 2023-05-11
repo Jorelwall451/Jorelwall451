@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Jorelwall451
 
-- Languages: 
+# Languages: 
   - Javascript && typescript(expert);
   - C#(Good);
   - C(learning)
