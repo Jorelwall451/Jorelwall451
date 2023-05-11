@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jorelwall451
+## 👋 Hi, I’m @Jorelwall451
 
 - Languages: 
   - Javascript && typescript(expert);
