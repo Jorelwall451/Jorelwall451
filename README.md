@@ -2,7 +2,25 @@
 
 ## Languages: 
 
-## Javascript
-<img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png"</img>
+## HTML5(expert)
+## CSS3(expert){
+   ### tailwindCSS(expert)
+}
+## Javascript(expert)
+## main Language > Typescript(expert)(
+   ### react(expert),
+   ### next(expert),
+   ### express(good),
+   ### fastify(good),
+   ### PrismaORM(expert),
+   ### axios(expert),
+   ### react-query(expert),
+   ### webpack(expert),
+   ### babel(expert),
+   ### etc...
+)
+## C#(good)
+## C(learning)
+## SQL SERVER(expert)
 
 I'm a progammer that want to be better each day more.
