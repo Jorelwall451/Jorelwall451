@@ -3,22 +3,9 @@
 ## Languages: 
 
 ## HTML5(expert)
-## CSS3(expert){
-   ### tailwindCSS(expert)
-}
+## CSS3(expert)
 ## Javascript(expert)
-## main Language > Typescript(expert)(
-   ### react(expert),
-   ### next(expert),
-   ### express(good),
-   ### fastify(good),
-   ### PrismaORM(expert),
-   ### axios(expert),
-   ### react-query(expert),
-   ### webpack(expert),
-   ### babel(expert),
-   ### etc...
-)
+## main Language > Typescript(expert)
 ## C#(good)
 ## C(learning)
 ## SQL SERVER(expert)
