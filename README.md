@@ -2,8 +2,6 @@
 
 ## Languages: 
 
-<div>
-  ## Javascript
-</div>
+## Javascript
 
 I'm a progammer that want to be better each day more.
