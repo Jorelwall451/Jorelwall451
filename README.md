@@ -3,7 +3,7 @@
 ## Languages: 
 
 <div>
-  <span>JAVASCRIPT</span>
+  ## Javascript
 </div>
 
 I'm a progammer that want to be better each day more.
