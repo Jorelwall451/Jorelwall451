@@ -1,13 +1,9 @@
-# 👋 Hi, I’m @Jorelwall451
+### Hi, I'm Jorelwall451 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-## Languages: 
+I'm Full Stack Web Developer.
 
-- HTML5(expert)
-- CSS3(expert)
-- Javascript(expert)
-- main Language > Typescript(expert)
-- C#(good)
-- C(learning)
-- SQL SERVER(expert)
+#### knowledge:
 
-I'm a progammer that want to be better each day more.
+👨‍💻Language: Javascript/Typescript and .net
+👁‍🗨Front-end: React.js/Next.js
+🔧Back-end: Node.js, Docker
