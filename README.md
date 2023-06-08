@@ -4,8 +4,8 @@ I'm Full Stack Web Developer.
 
 #### knowledge:
 
-👨‍💻Language: Javascript/Typescript and .net   
-👁‍🗨Front-end: React.js, Next.js   
-🔧Back-end: Node.js, Docker   
-📅SQL: Mysql 
-📅ORM: Prisma
+-👨‍💻Language: Javascript/Typescript and .net   
+-👁‍🗨Front-end: React.js, Next.js   
+-🔧Back-end: Node.js, Docker   
+-📅SQL: Mysql   
+=📅ORM: Prisma   
