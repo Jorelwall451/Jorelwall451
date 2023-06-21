@@ -23,8 +23,6 @@
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</div>
-
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jorelwall451&theme=blue-green"></img>
@@ -37,3 +35,5 @@
 <a href="https://discord.com/users/1085330067598622743">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+</div>
+
