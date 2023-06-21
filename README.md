@@ -3,8 +3,9 @@
 ### I'm full stack web developer.
 
 <div style="
-  display: flex;
-  gap: 4px
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
 "
 >
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
