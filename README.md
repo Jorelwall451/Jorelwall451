@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"></img>
+
 ## Socials: 
 
 <a href="mailto:jorelwall154@gmail.com">
