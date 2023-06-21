@@ -26,7 +26,7 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Jorelwall451&theme=blue-green"></img>
 
 ## Socials: 
 
