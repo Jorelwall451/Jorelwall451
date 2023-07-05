@@ -28,7 +28,10 @@
 ## Stats
   
 <img src="https://github-readme-stats.vercel.app/api?username=Jorelwall451&theme=blue-green"></img>
-  
+
+## Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorelwall451&layout=donut-vertical&theme=blue-green"></img>
 ## Socials: 
   
 <a href="mailto:jorelwall154@gmail.com">
